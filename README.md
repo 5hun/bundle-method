@@ -1,6 +1,6 @@
 # bundle-method
 
-A python implementation of the proximal bundle method for non-smooth convex optimization.
+A python implementation of a proximal bundle method for non-smooth convex optimization.
 
 ## Requirements
 
